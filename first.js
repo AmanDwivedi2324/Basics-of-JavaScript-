@@ -1,4 +1,6 @@
 
+
+// Combine script file with html by writing <script src="first.js"></script>  just above the end of body tag
                                                     
                                                    // Basics of JavaScript
 
